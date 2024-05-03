@@ -1,0 +1,14 @@
+.button-component{
+    margin: 0 10%;
+    text-align: center;
+}
+button{
+    color: green;
+}
+.toggle-component{
+    margin:0 20%;
+}
+.toggle-button{
+    background-color: green;
+    color: antiquewhite;
+}
